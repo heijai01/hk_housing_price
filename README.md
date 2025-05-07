@@ -18,11 +18,11 @@ The primary data is sourced from Kaggle: The primary data is sourced from Kaggle
 # Objectives
 
 The main objectives of this project are to:
-Explore and visualize the Hong Kong housing data, identifying trends and correlations (by district, time, size, etc.).
-Incorporate economic indicators (e.g. GDP growth, interest rates, unemployment, or market indices) as additional features.
-Build and train predictive models that estimate housing sale prices from property features and economic data. 
-Evaluate and compare models using metrics (R², MAE, RMSE) and choose the best performer.
-Visualize model results (e.g. actual vs. predicted prices, feature importances) to interpret performance.
+- Explore and visualize the Hong Kong housing data, identifying trends and correlations (by district, time, size, etc.).
+- Incorporate economic indicators (e.g. GDP growth, interest rates, unemployment, or market indices) as additional features.
+- Build and train predictive models that estimate housing sale prices from property features and economic data. 
+- Evaluate and compare models using metrics (R², MAE, RMSE) and choose the best performer.
+- Visualize model results (e.g. actual vs. predicted prices, feature importances) to interpret performance.
 
 # Methodology
 
